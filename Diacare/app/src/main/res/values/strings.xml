@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dia care</string>
+    <string-array name="names_item">
+        <item>apple</item>
+        <item>banana</item>
+        <item>orange</item>
+        <item>carrot</item>
+        <item>fruit</item>
+    </string-array>
+    <string-array name="description">
+        <item>G.I value=55</item>
+        <item>G.I value=5</item>
+        <item>G.I value=35</item>
+        <item>G.I value=65</item>
+        <item>G.I value=551</item>
+
+    </string-array>
+    <string name="Heading">What is Glycemic Index</string>
+    <string name="content">DEFINITION : The glycemic index, simply put, is a measure of how quickly a food causes our blood sugar levels to rise. The measure ranks food on a scale of zero to 100. Foods with a high glycemic index, or GI, are quickly digested and absorbed, causing a rapid rise in blood sugar.
+  //////////////////////////////////////************************/////////////////////////////// WHAT IS GOOD GLYCEMIC INDEX ???
+
+          55 or less = Low (good)
+         56- 69 = Medium.
+     70 or higher = High (bad)
+
+
+    </string>
+
+</resources>
